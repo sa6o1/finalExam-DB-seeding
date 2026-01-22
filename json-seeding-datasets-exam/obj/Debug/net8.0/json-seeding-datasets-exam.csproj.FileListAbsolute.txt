@@ -1,0 +1,14 @@
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\bin\Debug\net8.0\json-seeding-datasets-exam.exe
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\bin\Debug\net8.0\json-seeding-datasets-exam.deps.json
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\bin\Debug\net8.0\json-seeding-datasets-exam.runtimeconfig.json
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\bin\Debug\net8.0\json-seeding-datasets-exam.dll
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\bin\Debug\net8.0\json-seeding-datasets-exam.pdb
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\obj\Debug\net8.0\json-seeding-datasets-exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\obj\Debug\net8.0\json-seeding-datasets-exam.AssemblyInfoInputs.cache
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\obj\Debug\net8.0\json-seeding-datasets-exam.AssemblyInfo.cs
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\obj\Debug\net8.0\json-seeding-datasets-exam.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\obj\Debug\net8.0\json-seeding-datasets-exam.dll
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\obj\Debug\net8.0\refint\json-seeding-datasets-exam.dll
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\obj\Debug\net8.0\json-seeding-datasets-exam.pdb
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\obj\Debug\net8.0\json-seeding-datasets-exam.genruntimeconfig.cache
+C:\Users\alexa\Downloads\json-seeding-datasets-exam\obj\Debug\net8.0\ref\json-seeding-datasets-exam.dll
